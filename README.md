@@ -1,16 +1,7 @@
 # shared_prefreance
 
-A new Flutter project.
+Shared Preferences is a simple key-value storage system used to store small amounts of data persistently. It is commonly used to store settings, user preferences, login sessions, or other lightweight data.
 
-## Getting Started
+![Screenshot 2025-02-27 155510](https://github.com/user-attachments/assets/a3f9bc99-7647-4b54-a75d-3cd6bbe9e1c7)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-02-27 155453](https://github.com/user-attachments/assets/246c88c0-be27-4581-9be3-d50eb92efd43)
